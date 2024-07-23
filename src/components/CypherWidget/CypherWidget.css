@@ -1,0 +1,24 @@
+.widgetSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 95dvh;
+}
+
+.widgetContainer {
+  width: 333px;
+}
+
+.cypherStepsContainer {
+  display: flex;
+}
+
+.messageInput, .encryptedMessage {
+  margin: 1rem 0 1rem 0;
+}
+
+input {
+  width: 100%;
+}
+
